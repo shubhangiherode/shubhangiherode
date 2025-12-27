@@ -1,76 +1,71 @@
-<h1 align="center">Hi 👋, I'm Shubhangi Herode</h1>
-<h3 align="center">A passionate Frontend Developer and MERN Stack Learner from India 🇮🇳</h3>
+# Hi 👋 I'm Shubhangi Herode  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhangiherode&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangiherode" />
-</p>
+📊 **Aspiring Data Analyst | SQL | Power BI | Python**  
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhangiherode&theme=dracula&row=2&column=3" alt="shubhangiherode trophies" />
-  </a>
-</p>
+I am a passionate **Data Analyst** who loves transforming raw data into meaningful insights.  
+I enjoy working with data to solve real-world business problems and support data-driven decisions.
 
 ---
 
-- 🌱 I’m currently learning **MERN Stack**
-- 💻 I’m passionate about **Frontend Development**, **UI/UX**, and **C++ Programming**
-- 📫 How to reach me: **shubhangiherode5@gmail.com**
+## 🚀 About Me
+- 🎓 MCA student with strong interest in **Data Analytics**
+- 📈 Hands-on experience in **SQL-based data analysis projects**
+- 📊 Skilled in creating **interactive dashboards** and reports
+- 🔍 Strong analytical & problem-solving mindset
+- 🌱 Currently improving **advanced SQL & Power BI skills**
 
 ---
 
-### 🌐 Connect with me:
+## 🛠️ Skills & Tools
 
-<p align="left">
-  <a href="https://linkedin.com/in/shubhangi-herode" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhangi-herode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/shubhangiherode5" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shubhangiherode5" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/shubh_herode/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shubh_herode" height="30" width="40" />
-  </a>
-</p>
+### 📌 Data Analysis
+- SQL (Joins, Subqueries, CTEs, Aggregations)
+- Data Cleaning & Data Exploration
+- KPI & Business Metrics Analysis
 
----
+### 📌 Visualization & Reporting
+- Power BI (Dashboards, DAX basics)
+- Excel (Pivot Tables, Charts)
 
-### 💻 Languages and Tools:
+### 📌 Programming
+- Python (Basics for Data Analysis)
+- SQL
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</p>
+### 📌 Tools
+- Git & GitHub
+- VS Code
+- PostgreSQL / MySQL
 
 ---
 
-### 📊 GitHub Stats:
+## 📂 Projects
+- 🛒 **Zepto Sales Data Analysis (SQL)**
+  - Analyzed sales data to extract KPIs and business insights
+  - Used complex SQL queries for trend analysis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhangiherode&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-</p>
+### 🛍️ Customer Shopping Behavior Analysis
+- An end-to-end **data analysis project** using **SQL, Python, and Power BI**
+- Cleaned and analyzed customer shopping data to identify **purchase patterns and trends**
+- Used **SQL** for data extraction and KPI analysis
+- Performed data processing and insights generation using **Python**
+- Built **interactive Power BI dashboards** for business reporting and visualization
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangiherode&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangiherode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
+*(More projects coming soon...)*
+
+---
+
+## 🎯 Career Goal
+To start my career as a **Data Analyst** where I can apply my analytical skills to solve business problems and grow in the data domain.
 
 ---
 
-> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/shubhangi-herode-6079a7234/
+- 📧 Email: shubhangiherode5@gmail.com
 
 ---
+
+⭐ **If you like my work, feel free to star my repositories!**
+
 
